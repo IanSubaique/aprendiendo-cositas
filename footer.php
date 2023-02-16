@@ -1,0 +1,6 @@
+<!-- VENTAJA DE ESTOS ARCHIVOS ES QUE SE PUEDEN OCUPAR EN VARIAS PAGINAS
+                Y AL MODIFICAR ESTE SE MODIFICAN TODAS LAS PAGINAS        -->
+
+<div id="footer">
+	Footer
+</div>
