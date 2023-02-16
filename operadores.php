@@ -12,5 +12,10 @@
     // ($x = $x + $y) == ($x += $y)
     //misma funcion que python y c++
 
+    var_dump($x <> $y);     //Distinto de: <>
+    var_dump($x === $y);    //Mismo tipo de dato?: ===
+                            //No es igual: !=
+                            //No es identico> !==
+
     
 ?>
